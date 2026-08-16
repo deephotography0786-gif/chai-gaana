@@ -1,0 +1,6 @@
+{
+  "name": "Chai & Gaana",
+  "description": "A vintage Indian tea stall music player website with dynamic day-to-night ambiance and ad-free playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Chai & Gaana — Vintage Indian Music Experience",
+  "short_name": "Chai & Gaana",
+  "description": "Listen to your favorite old songs in a nostalgic Indian tea-stall atmosphere.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#18100c",
+  "theme_color": "#d97706",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

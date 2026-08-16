@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="48" fill="#26140d" stroke="#d97706" stroke-width="4"/>
+  <!-- Kulhad cup / Cutting glass -->
+  <path d="M32 38 L68 38 L62 82 L38 82 Z" fill="#b45309" stroke="#fef3c7" stroke-width="2"/>
+  <!-- Chai level -->
+  <path d="M34 44 L66 44 L61 78 L39 78 Z" fill="#78350f"/>
+  <ellipse cx="50" cy="44" rx="16" ry="3" fill="#d97706"/>
+  <!-- Rising steam -->
+  <path d="M42 32 Q46 24 40 18 Q36 12 44 8" stroke="#fef3c7" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.8"/>
+  <path d="M52 30 Q56 22 50 16 Q46 10 54 6" stroke="#fde68a" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.8"/>
+  <path d="M60 34 Q64 26 58 20 Q54 14 62 10" stroke="#fef3c7" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.6"/>
+  <!-- Radio tuning bar -->
+  <rect x="25" y="86" width="50" height="4" rx="2" fill="#d97706" opacity="0.7"/>
+</svg>
